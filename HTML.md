@@ -24,7 +24,7 @@
 ### Linking radio buttons
         - <h3>Do you already own a dog?</h3>
           <label for="yes">Yes</label>
-          <input type="radio" id="yes" name="dog_choice" value="yes">
+          <input type="radio" id="yes" name="dog_choice" value="yes" placeholder="Value">
           
           <label for="no">No:</label>
           <input type="radio" id="no" name= "dog_choice" value="no">
